@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+.article {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.article h2 {
+    margin: 0;
+    color: #333;
+}
+
+.meta {
+    color: #777;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.content {
+    margin-top: 10px;
+}
